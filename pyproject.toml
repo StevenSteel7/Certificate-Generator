@@ -1,0 +1,13 @@
+[project]
+name = "autocerftifiacte"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "pandas>=2.3.0",
+    "pillow>=11.2.1",
+    "pymupdf>=1.26.0",
+    "pyqt6>=6.9.1",
+]
